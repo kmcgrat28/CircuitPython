@@ -8,8 +8,9 @@ All of my Circuit Python assignments so far
 ##### Objective
 This assignment taught us the basics of Circuitpython. We made our neopixel red. by assigning RGB values (Links to an external site.) using the fill() function. Then we had to get an led to fade.
 # What you had to learn
-We learned what RGB values are, and the basic terms for coding since this is a different language that the one we used for arduino. we learned how to change the neopixel red by assigning RGB values (Links to an external site.) using the fill() function. we learned how to name and save assignments. then the code for getting an led to fade was simular to what we knew we just had to get used to the formating, and the lanfguage overall because certain parts were different. 
-![Led Fritzing](Media/ledfadefritzing_bb.png)
+We learned what RGB values are, and the basic terms for coding since this is a different language that the one we used for arduino. we learned how to change the neopixel red by assigning RGB values (Links to an external site.) using the fill() function. we learned how to name and save assignments. then the code for getting an led to fade was simular to what we knew we just had to get used to the formating, and the language overall because certain parts were different. 
+
+<img src="Media/ledfadefrizting_bb.png" width="300">
 
 
 
