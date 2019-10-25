@@ -20,11 +20,15 @@ to get a servo are to rotate 180 degrees when pressed and only moving when the b
 ##### What you had to learn
 What a PWM is and how to use it. The pin process is about the same as what we knew and the code itself, is very similar to the code used last year, it just took some monevering.
 
+<img src="Media/servofritzing_bb.png" width="300">
+
 # Circuitpython LCD
 ##### Objective
 to get a counter on a LCD to count the amount of presses of a button.
 #what you had to learn
 Now this project took me forever. getting the counter placement was hard. after reaching 10, it would keep the 0 or it would move over a space and start printing there. It took printing some spaces for the LCD to show the counts.
+
+<img src="Media/fritzingforlcd_bb.png" width="300">
 
 # Circuitpython Photointerrupters
 ##### Objective
@@ -36,17 +40,23 @@ Don't use sleep().
 ##### What you had to learn
 You had to learn how to make it print the counts in the servo monitor every 4 seconds without time sleep().
 
+<img src="Media/photofritzing_bb.png" width="300">
+
 # Circuitpython Distance Sensor
 ##### Objective
 to get the neopixel to go through a rainbow when you move your hand over an ultrasonic sensor. for different distances it would go to the different colors in the rainbow.
 ##### What you had to learn
 we had to combine the first assignment with our past knowledge of a servo. we had to use rgb values for the colors and we had ro know what order to put the corresponding numbers for a color to make them go in rainbow order and, for certain colors, blend them.
 
+<img src="Media/ultrasonicsensorfritzing_bb.png" width="300">
+
 # Circuitpython classes, objects, and modules
 ##### Objective
 To use a class, object, and module to create a new library designed to make working with RGB LEDs easier.
 ##### What you had to learn
 We had to learn what a class, object and module were, then apply them to an assignment. we had to learn how to wire an RGB and use the different pins that respond to a color light up.
+
+<img src="Media/rgbfritzing_bb.png" width="300">
 
 # Hello VS Code
 ##### Objective
@@ -61,3 +71,4 @@ To use 6 LEDs and for them to show alternating, sparkle, and blinking. We used a
 ##### What you had to learn
 This one was quite simple because is was very similar to the rbg assignment. Instead of the colors changing you were just changing the action of the led.
 
+<img src="Media/fritzingforfancyled_bb.png" width="300">
